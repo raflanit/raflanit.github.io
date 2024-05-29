@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://raflanit.github.io/a/sitemap.html
+Sitemap: https://raflanit.github.io/b/sitemap.html
+Sitemap: https://raflanit.github.io/c/sitemap.html
+Sitemap: https://raflanit.github.io/d/sitemap.html
